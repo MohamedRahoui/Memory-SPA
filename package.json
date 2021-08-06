@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "easytimer.js": "^2.2.2",
     "jquery": "^3.3.1",
     "js-file-download": "^0.4.1",
